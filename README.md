@@ -33,3 +33,9 @@ Tambien implementamos un sensor de temperatura que se utilizara para encender o 
 Contiene la mismas funcionalidades que en la parte 1 y 2 con la unica diferencia de que implementé una foto resistencia que segun la cantidad de luz recibida me permitira usar mi sensor de temperatura o no.
 # Link al proyecto
 https://www.tinkercad.com/things/8XRIohhKCmQ
+# Proyecto Parte 4:Modificación según el Último Número de Documento (0-3)
+![Primer Parcial SPD parte 4](https://github.com/Thiagobongioanni/Primer-Parcial-SPD/assets/98613140/1556275a-acb1-493a-a752-5275dbc6973a)
+# Descripcion
+Modificamos la funcionalidad del interruptor,si el interruptor esta en 1 el display permanece apagado si esta en 0 y con el motor encendido entonces los display funcionan,con la unica diferencia de que ahora solo podran mostrar los numeros primos.
+# Link al proyecto
+[https://www.tinkercad.com/things/6q7HudwJAdV](https://www.tinkercad.com/things/iM7Zg29SgxO)https://www.tinkercad.com/things/iM7Zg29SgxO
