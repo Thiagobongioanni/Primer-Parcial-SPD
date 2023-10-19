@@ -16,7 +16,7 @@
 Diseñamos un contador de 0 a 99 utilizando dos displays de 7 segmentos y tres botones para
 controlar la cuenta.
 # Link al proyecto
-https://www.tinkercad.com/things/1Weo0MMyuyl
+[https://www.tinkercad.com/things/1Weo0MMyuyl](https://www.tinkercad.com/things/1Weo0MMyuyl)
 
 # Proyecto Parte 2:Modificación con Interruptor Deslizante y Números Primos
 ![_Primer Parcial SPD parte 2 Definitivo](https://github.com/Thiagobongioanni/Primer-Parcial-SPD/assets/98613140/e0f6fa69-5042-42c5-896f-e97b91de167c)
@@ -26,10 +26,10 @@ en la parte 1) o los números primos en el rango de 0 a 99.
 
 Tambien implementamos un sensor de temperatura que se utilizara para encender o apagar el motor dependiendo de la temperatura que contenga el sensor (si el motor no esta encendido los displays no funcionaran).
 # Link al proyecto
-https://www.tinkercad.com/things/6q7HudwJAdV
+[https://www.tinkercad.com/things/6q7HudwJAdV](https://www.tinkercad.com/things/6q7HudwJAdV)
 # Proyecto Parte 3:Modificación según el Último Número de Documento
 ![_Primer Parcial SPD parte 3 Definitiva](https://github.com/Thiagobongioanni/Primer-Parcial-SPD/assets/98613140/bd758657-f020-41d1-897e-2dca6fc209ea)
 # Descripcion
 Contiene la mismas funcionalidades que en la parte 1 y 2 con la unica diferencia de que implementé una foto resistencia que segun la cantidad de luz recibida me permitira usar mi sensor de temperatura o no.
 # Link al proyecto
-[https://www.tinkercad.com/things/6q7HudwJAdV](https://www.tinkercad.com/things/8XRIohhKCmQ)https://www.tinkercad.com/things/8XRIohhKCmQ
+https://www.tinkercad.com/things/8XRIohhKCmQ
