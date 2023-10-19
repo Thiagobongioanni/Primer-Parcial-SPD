@@ -30,6 +30,6 @@ https://www.tinkercad.com/things/6q7HudwJAdV
 # Proyecto Parte 3:Modificación según el Último Número de Documento
 ![_Primer Parcial SPD parte 3 Definitiva](https://github.com/Thiagobongioanni/Primer-Parcial-SPD/assets/98613140/bd758657-f020-41d1-897e-2dca6fc209ea)
 # Descripcion
-Contiene la mismas funcionalidades que en la parte 1 y 2 con la unica diferencia de que implementé un foto resistor que segun la cantidad de luz recibida me permitira usar mi sensor de temperatura o no.
+Contiene la mismas funcionalidades que en la parte 1 y 2 con la unica diferencia de que implementé una foto resistencia que segun la cantidad de luz recibida me permitira usar mi sensor de temperatura o no.
 # Link al proyecto
 [https://www.tinkercad.com/things/6q7HudwJAdV](https://www.tinkercad.com/things/8XRIohhKCmQ)https://www.tinkercad.com/things/8XRIohhKCmQ
